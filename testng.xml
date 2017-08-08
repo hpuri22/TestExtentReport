@@ -1,0 +1,178 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Selenium Tests" verbose="6" parallel="tests"
+	thread-count="5">
+
+
+
+	<test name="RentalLog1">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_1" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="RentalLosg1">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_1" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog2">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_2" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<test name="RentalLog3">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog4">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog5">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog6">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog7">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog8">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog9">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog10">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog11">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog12">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog13">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog14">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog15">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="RentalLog16">
+		<classes>
+			<class name="ReportGenerationTest">
+				<methods>
+					<include name="testApp_3" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+
+</suite>
